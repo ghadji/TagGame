@@ -1,0 +1,14 @@
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\ApplicationGUI.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\ApplicationGUI.obj
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\ImGui\ImGuiBuild.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\ImGuiBuild.obj
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\ImGui\ImGuiTheme.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\ImGuiTheme.obj
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\Image.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\Image.obj
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\Input\Input.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\Input.obj
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\UI\Console.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\Console.obj
+D:\Repositories\TagGame\Walnut\Walnut\Platform\GUI\Walnut\UI\UI.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\UI.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Core\Log.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\Log.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Random.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\Random.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Serialization\BufferStream.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\BufferStream.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Serialization\FileStream.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\FileStream.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Serialization\StreamReader.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\StreamReader.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Serialization\StreamWriter.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\StreamWriter.obj
+D:\Repositories\TagGame\Walnut\Walnut\Source\Walnut\Utils\StringUtils.cpp;D:\Repositories\TagGame\bin-int\Debug-windows-x86_64\Walnut\StringUtils.obj
